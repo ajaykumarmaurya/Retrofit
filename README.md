@@ -1,1 +1,1 @@
-# Retrofit smaple app
+# Retrofit sample app
